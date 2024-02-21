@@ -9,7 +9,7 @@ Integer N (Total no. of rows)
 Output format :
 Pattern in N lines
 Constraints
-0 <= N <= 26
+0 <= N <= 26 
 Sample Input 1:
 7
 Sample Output 1:
